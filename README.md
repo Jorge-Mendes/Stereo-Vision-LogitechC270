@@ -39,7 +39,7 @@ In this case, the input right image is the **image_right_01.jpg** (```input/imag
 
 ---
 
-If you find a bug or would like to request a feature, please [report it with the issue tracker](https://github.com/Jorge-Mendes/Stereo-Vision-LogitechC270/issues). If you'd like to contribute to StereoVision, feel free to [fork it on GitHub](https://github.com/Jorge-Mendes/Stereo-Vision-LogitechC270).
+If you find a bug or would like to request a feature, please report it with the [issue tracker](https://github.com/Jorge-Mendes/Stereo-Vision-LogitechC270/issues). If you'd like to contribute to Stereo-Vision-LogitechC270, feel free to [fork this repository](https://github.com/Jorge-Mendes/Stereo-Vision-LogitechC270).
 
 Author: [Jorge Mendes](https://github.com/Jorge-Mendes)
 
